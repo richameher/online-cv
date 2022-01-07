@@ -6,7 +6,7 @@ Graduate Student at University of Illinois, Past: ML Engineer, Data Engineer bas
 
 ##  Eductaion 
 
-** Masters of Science in Computer Science ** 
+**Masters of Science in Computer Science** <br>
 [University of Illinois at Urbana Champaign] - Champaign, USA _(Aug 2020 - Expected May 2022)_ <br>
 
 ** Bachelors of Science in Computer Engineering **
