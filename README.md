@@ -16,21 +16,21 @@ _Graduate Student at University of Illinois, Past: ML Engineer, Data Engineer ba
 
 **Machine Learning Engineer** @ [phData Inc](https://www.phdata.io/) MN, USA  _(Feb 2019 - Aug 2020)_   
 * Built data pipelines and led my team through best git practices
-* Coded and Debugged statistical methods available in traditional software systems <br> 
+* Coded and Debugged statistical methods available in traditional software systems
 and led the client team to migrate the analytics to cloud. 
-* Worked closely with data scientists to build and translate Teradata SQL queries <br>
+* Worked closely with data scientists to build and translate Teradata SQL queries
 to Hive Queries on HealthCare Data. 
 * Created Machine learning related technical content
 
 
 **Data Engineer** @ [phData Inc](https://www.phdata.io/) MN, USA _(Apr 2017 - Feb 2019)_   
-* Worked extensively on migrating data in relational database systems such as Oracle,<br>
+* Worked extensively on migrating data in relational database systems such as Oracle,
 SAP HANA to Hadoop using services such as Spark, Kafka, CDC and Sqoop
-* Built scripts and dashboards to automate the migration processes and run the data <br>
+* Built scripts and dashboards to automate the migration processes and run the data
  migration with as little human guidance as possible
-* Worked closely with product owners to collect the requirements for financial and <br>
+* Worked closely with product owners to collect the requirements for financial and 
  company centric data reports and built those reports using HiveQL or Impala.
-* Cntributed to companys internal products such as pipewrench - an automated tool <br>
+* Cntributed to companys internal products such as pipewrench - an automated tool
 to create migration scripts 
 
 
