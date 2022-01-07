@@ -1,38 +1,44 @@
-# Richa Meherwal
+#                                                                     RICHA MEHERWAL
 
-Graduate Student at University of Illinois, Past: ML Engineer, Data Engineer based in United States
+_Graduate Student at University of Illinois, Past: ML Engineer, Data Engineer based in United States_
 
-[Email](mailto:richa.meherwal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/richameher/) / [GitHub](https://github.com/richameher/)
+[Email](mailto:richa.meherwal@gmail.com) / [LinkedIn](https://www.linkedin.com/in/richameherwal/) / [GitHub](https://github.com/richameher/)
 
 ##  Eductaion 
 
-**Masters of Science in Computer Science** <br>
-[University of Illinois at Urbana Champaign] - Champaign, USA _(Aug 2020 - Expected May 2022)_ <br>
+####  **Masters of Science in Computer Science** 
+University of Illinois at Urbana Champaign - Champaign, USA                                         _(Aug 2020 - Expected May 2022)_ 
 
-** Bachelors of Science in Computer Engineering **
-[University of Illinois at Urbana Champaign]
+####  **Bachelors of Science in Computer Engineering**
+University of Illinois at Urbana Champaign - Champaign, USA                                         _(Dec 2016)_
 
 ## Technical Experience
 
-** ML Engineer ** 
+### **ML Engineer** 
+phData Inc
 
-** Data Engineer ** 
+#### **Data Engineer** 
+phData Inc
 
-** Software Engineer ** 
+#### **Software Engineer** 
+Spectroclick Inc 
 
 
 ## Product Experience 
 
-** Graduate Research Assistant ** 
+#### **Graduate Research Assistant** 
 
-** Graduate Research Assistant ** 
+#### **Graduate Research Assistant** 
 
+## Teachning Experience 
+
+#### **Graduate Teachning Assistant** 
 
 ## Projects
 
-** Airbnb vs Hotel Analysis ** 
+#### **Airbnb vs Hotel Analysis** 
 
-** Venmo Data Analysis **
+#### **Venmo Data Analysis**
 
 ## Skills
 
