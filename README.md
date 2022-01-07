@@ -43,8 +43,8 @@ _Graduate Student at University of Illinois, Past: ML Engineer, Data Engineer ba
 
 **Graduate Research Assistant**  | [ListenOnline](http://listen.online/) | Advisor _Prof. Kevin Chang_  
 University of Illinois at Urbana Champaign - Champaign, USA  _(Dec 2020 - Present)_ 
-* Worked on researching the usability issues with the translation framework that allows user to convert swagger files to GraphQL schema
-* Built a validation system that allows user to make translation rules and informs the user about the <br> shortcomings of the translation framework therby guiding them to create the correct GraphQL schema
+* Researched usability issues and solutions for ListenOnline translation framework 
+* Built a validation system that allows user to make translation rules and informs the user about the shortcomings of the translation framework therby guiding them to create the correct GraphQL schema
 * **Technologies Used** React/ Javascript
 
 **Graduate Research Assistant**  | [DonateToCharity](https://github.com/richameher/charitable-giving/tree/feature/FinalV1) | Advisor _Prof. Hari Sundaram_.  
@@ -64,9 +64,9 @@ University of Illinois at Urbana Champaign - Champaign, USA  _(May 2016 - Apr 20
 
 **Graduate Teachning Assistant**  @ [University of Illinois at Urbana Champaign - Champaign, USA](https://cs.illinois.edu/)
 
-* CS 241 - Systems Programming  _(Jan 2020 - Present)_ 
-* CS 410 - Text Information Systems  _(Aug 2020 - Dec 2020)_ 
-* CS 241 - Systems Programming  _(Jan 2020 - May 2020)_ 
+* CS 241 - Systems Programming  _(Jan 2022 - Present)_ 
+* CS 410 - Text Information Systems  _(Aug 2021 - Dec 2021)_ 
+* CS 241 - Systems Programming  _(Jan 2021 - May 2021)_ 
 
 Held and organized office Hours, labs, exams and grades
 
