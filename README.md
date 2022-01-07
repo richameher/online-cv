@@ -15,37 +15,40 @@ University of Illinois at Urbana Champaign - Champaign, USA  _(Dec 2016)_
 ## Technical Experience
 
 **Machine Learning Engineer**   
-phData Inc.  
-* Investigated the root cause for incorrect forecast results produced by Exponential smoothing with     
-trend and Seasonality method in Oracle JDE Forecast software. Determined the cause as   
-a precision and faulty variable initialization error
-* Devised and implemented efficient git practices and branching strategy to ease   
-model deployment process across production and development environments
-* Redefined and improvised data pre-processing process for healthcare model   
-features dataset that increased training data quality and provided more accuracy
+phData Inc, Minneapolis, MN,  USA _(Feb 2019 - Aug 2020)_ 
+* Built data pipelines and led my team through best git practices
+* Coded and Debugged statistical methods available in traditional software systems <br> 
+and led the client team to migrate the analytics to cloud. 
+* Worked closely with data scientists to build and translate Teradata SQL queries <br>
+to Hive Queries on HealthCare Data. 
+* Created Machine learning related technical content
 
 **Data Engineer**   
-phData Inc
+phData Inc, Minneapolis, MN, USA _(Apr 2017 - Feb 2019)_ 
+* Worked extensively on migrating data in relational database systems such as Oracle,<br>
+SAP HANA to Hadoop using services such as Spark, Kafka, CDC and Sqoop
+* Built scripts and dashboards to automate the migration processes and run the data <br>
+ migration with as little human guidance as possible
+* Worked closely with product owners to collect the requirements for financial and <br>
+ company centric data reports and built those reports using HiveQL or Impala.
+* Cntributed to companys internal products such as pipewrench - an automated tool <br>
+to create migration scripts 
 
-* Created Bash and Python tools, dashboards for DevOps teams. These tools helped save more than 25% of time spent on production support per day
-* Built and optimized SQL reports for financial and medical data analysis
-* Engineered and optimized a data pipeline using Spark SQL application to load , <br>
-build and deliver financial reports by combing data in real-time from internal Web API and excel documents
 
-**Software Engineer**   
-Spectroclick Inc 
-
+**Software Engineer Part-time**   
+Spectroclick Inc, University of Illinois Research Park, Champaign, IL, USA  _(Feb 2017 - Apr 2017)_ 
+* Designed an electron application to analyze the spectrum of an image   
 
 ## Product and Research Experience 
 
-**Graduate Research Assistant**   
-University of Illinois at Urbana Champaign - Champaign, USA 
+**Graduate Research Assistant**  | [ListenOnline](http://listen.online/) | Advisor _Prof. Kevin Chang_  
+University of Illinois at Urbana Champaign - Champaign, USA  _(Dec 2020 - Present)_ 
 
-**Graduate Research Assistant**   
-University of Illinois at Urbana Champaign - Champaign, USA 
+**Graduate Research Assistant**  | DonateToCharity | Advisor _Prof. Hari Sundaram_.  
+University of Illinois at Urbana Champaign - Champaign, USA  _(May 2021 - Aug 2021)_ 
 
-**Undergraduate Research Assistant**   
-University of Illinois at Urbana Champaign - Champaign, USA 
+**Undergraduate Research Assistant** | Henge | Advisor _Prof. Indranil Gupta_.   
+University of Illinois at Urbana Champaign - Champaign, USA  _(May 2016 - Apr 2017)_ 
 
 ## Teachning Experience 
 
@@ -68,6 +71,7 @@ University of Illinois at Urbana Champaign - Champaign, USA
 ## Relevant Courses 
 
 ## Paper
+Faria Kalim, Le Xu, Sharanya Bathey, Richa Meherwal, Indranil Gupta. "Henge: Intent- driven Multi-Tenant Stream Processing", Proc. ACM Symposium of Cloud Computing (SoCC), pp. 249-262, Carlsbad, CA, October 2018. (Acceptance Rate: 24%). Paper available at: https://dl.acm.org/citation.cfm?id=3267832
 
 ## Accomplishments 
 
