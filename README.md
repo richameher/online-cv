@@ -1,4 +1,4 @@
-#                                                                     RICHA MEHERWAL
+#           RICHA MEHERWAL
 
 _Graduate Student at University of Illinois, Past: ML Engineer, Data Engineer based in United States_
 
@@ -88,10 +88,10 @@ Designed and created Venmo portriat to help individuals visualize their personal
 ## Relevant Courses 
 * Completed- Artificial Intelligence (CS 440), Cognitive Psychology (CS 549), Teaching and Leadership (CS 591), Social Visualisation (CS 467), HCI for ML (CS 598RK), Text Information Systems (CS 410),Principles of User Interface Design (CS 465), Interactive Computer Graphics (CS 418) , Distributed Systems (CS 425), Numerical Analysis (CS 450), Computer Systems and Engineering (ECE 391), Networking in Big Data (ECE 498), Discrete Structures (CS 173)
 
-## Paper
+## Publication
 Faria Kalim, Le Xu, Sharanya Bathey, Richa Meherwal, Indranil Gupta. "Henge: Intent- driven Multi-Tenant Stream Processing", Proc. ACM Symposium of Cloud Computing (SoCC), pp. 249-262, Carlsbad, CA, October 2018. (Acceptance Rate: 24%). Paper available at: https://dl.acm.org/citation.cfm?id=3267832
 
-## Accomplishments. 
+## Accomplishments 
 * Project Nomination for global finalist for Breakthrough Awards in the “Executes Exceptional Results”, phData Inc _(2019)_
 * Winner at [SisTech Un-Hackathon](https://www.linkedin.com/posts/theresameyer_sistech-togetherwewill-strongertogether-activity-6601560702740164608-fvbq) for devising Software solution to combat Corporate cultural problems _(2019)_
 * Guest Lecturer for Graduate Big Data Architecture Course @ University of St. Thomas, St. Paul, MN _(2019, 2018)_
@@ -100,7 +100,7 @@ Faria Kalim, Le Xu, Sharanya Bathey, Richa Meherwal, Indranil Gupta. "Henge: Int
 * Department Rank 1, Manipal University, India _(2012, 2013)_
 
 
-
+###### (Template inspired from [carolstran](https://github.com/carolstran/cv/blob/main/README.md))
 
 
 
